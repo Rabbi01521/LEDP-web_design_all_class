@@ -1,0 +1,174 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: tahoma;
+}
+
+.main {
+    background: #ECECEC;
+    height: 800px;
+    overflow: hidden;
+}
+
+.main .left {
+    background-image: url(https://d585tldpucybw.cloudfront.net/sfimages/default-source/labs/kendo/kendo-umbrella/umbrella-bg.jpg?sfvrsn=2c25c32e_2);
+    height: 439px;
+    width: 328px;
+    background-size: cover;
+    float: left;
+    overflow: hidden;
+
+
+    margin: -439px 0px 0px -170px;
+}
+
+.right .left hr:nth-child(2) {
+    width: 44%;
+    margin: 6px 1px 0px 43px;
+    height: 1px;
+    background-color: white;
+}
+
+.right .left hr:nth-child(3) {
+    width: 22%;
+    margin: 2px 0px 0px 43px;
+    height: 1px;
+    background-color: white;
+}
+
+.right .left h2 {
+    color: white;
+    margin: 48px 0px 0px 43px;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+.right hr:nth-child(2) {
+    width: 27%;
+    margin: 6px 1px 0px 192px;
+    height: 2px;
+    background-color: #3A7D9A;
+    border: none;
+}
+
+.right hr:nth-child(3) {
+    width: 16%;
+    margin: 2px 0px 0px 192px;
+    height: 2px;
+    background-color: #3A7D9A;
+    border: none;
+}
+
+.right h2 {
+    color: darkblue;
+    margin: 86px 0px 0px 192px;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+.right .left p {
+    color: white;
+    margin: 38px 15px 0px 28px;
+    font-size: 11px;
+}
+
+.main .right {
+    background: white;
+    height: 602px;
+    width: 536px;
+    box-shadow: 7px 0px 26px 11px #ccc;
+    float: right;
+    margin: 10px 285px 0px 0px;
+
+
+}
+
+
+
+
+
+.main .right input {
+    display: block;
+}
+
+.main .right textarea {
+    display: block;
+    width: 60%;
+    box-sizing: border-box;
+    margin: -3px 180px;
+    padding: 13px 10px;
+    border: 2px solid #BBBBBB;
+    outline: none;
+    border-radius: 5px;
+
+}
+
+
+.main .right input[type=text] {
+    width: 60%;
+    box-sizing: border-box;
+    margin: 18px 177px;
+    padding: 12px 13px;
+    border: 2px solid #BBBBBB;
+    outline: none;
+    border-radius: 7px;
+
+}
+
+
+.main .right input[type=button] {
+    background-color: #18B660;
+    color: white;
+    width: 27%;
+    box-sizing: border-box;
+    margin: 14px 184px;
+    padding: 13px 8px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+
+.left i {
+    color: #0DCBF4;
+    display: block;
+    margin: 49px 0px -4px 40px;
+    width: 8%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 19px;
+    padding: 0px 3px 2px 2px;
+}
+
+.left i:nth-child(11){
+    padding: 1px 3px 2px 5px;
+}
+
+.left h4{
+    color: white;
+    margin: -26px 0px 0px 75px;
+    font-size: 12px;
+}
+.left h5{
+    color: white;
+    margin: -1px 0px 0px 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

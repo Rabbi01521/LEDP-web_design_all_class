@@ -1,0 +1,89 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+    height: 66px;
+    width: 162px;
+    box-shadow: 5px 15px 29px 1px #ccc;
+    border-radius: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 88px 119px 0px 443px;
+   
+}
+
+
+
+.btn1{
+    height: 66px;
+    width: 162px;
+    box-shadow: inset 12px 15px 25px 0px #ccc;
+    border-radius: 20px 20px 20px 20px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+}
+
+.btn h2{
+    margin: 18px 0px 0px 36px;
+    color: #3010DD;
+}
+.btn1 h2{
+    margin: 21px 0px 0px 48px;
+    color: #3010DD;
+}
+
+
+.main{
+    height: 357px;
+    width: 540px;
+    box-shadow: 12px 15px 25px 0px #ccc;
+    margin: auto;
+    border-radius: 6px 6px 6px 6px;
+    overflow: hidden;
+}
+
+
+
+.main .one{
+    height: 267px;
+    width: 450px;
+    box-shadow: 12px 15px 25px 0px #ccc;
+    margin: auto;
+    border-radius: 6px 6px 6px 6px;
+    margin-top: 41px;
+    overflow: hidden;
+}
+.main .one .two{
+    height: 176px;
+    width: 359px;
+    box-shadow: 12px 15px 25px 0px #ccc;
+    margin: auto;
+    border-radius: 6px 6px 6px 6px;
+    margin-top: 41px;
+    overflow: hidden;
+}
+.main .one .two .three{
+    height: 88px;
+    width: 270px;
+    box-shadow: 12px 15px 25px 0px #ccc;
+    margin: auto;
+    border-radius: 6px 6px 6px 6px;
+    margin-top: 41px;
+    overflow: hidden;
+}
+.main .one .two .three .four{
+    height: 44px;
+    width: 181px;
+    box-shadow: inset 12px 15px 25px 0px #ccc;
+    margin: auto;
+    border-radius: 6px 6px 6px 6px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.main .one .two .three .four h2{
+    margin: 10px 0px 0px 25px;
+    color: #3010DD;
+}
