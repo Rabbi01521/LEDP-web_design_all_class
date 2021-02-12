@@ -1,0 +1,288 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    background-image: radial-gradient(#D3DBDD 24%, #B6C1C7 80%);
+    height: 750px;
+    position: relative;
+}
+
+.main .one {
+    background-color: white;
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    margin: auto;
+    margin-top: 44px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 36px 15px #9E9C9D;
+
+}
+
+.main .two {
+    background-color: white;
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    margin: auto;
+    margin-top: 231px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 36px 15px #9E9C9D;
+
+}
+.main .three {
+    background-color: white;
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    margin: auto;
+    margin-top: 414px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 36px 15px #9E9C9D;
+
+}
+.main .four {
+    background-color: white;
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 21px;
+    margin: auto;
+    margin-top: 44px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 36px 15px #9E9C9D;
+
+}
+
+.one h1 {
+    color: #7A7474;
+    font-size: 68px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+
+.two h1 {
+    color: #7A7474;
+    font-size: 68px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.three h1 {
+    color: #7A7474;
+    font-size: 68px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.four h1 {
+    color: #7A7474;
+    font-size: 68px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+
+
+.main .onesub {
+    background-image: linear-gradient(to bottom right, #C799C7 50%, #BF86BD 50%);
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 222px;
+    right: 0px;
+    top: -25px;
+    margin: auto;
+    margin-top: 44px;
+    border-radius: 9px;
+    z-index: 1;
+    border: 3px solid white;
+}
+
+
+.main .twosub {
+    background-image: linear-gradient(to bottom right, #9DA3D7 50%, #7F88CA 50%);
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 222px;
+    right: 0px;
+    top: -25px;
+    margin: auto;
+    margin-top: 227px;
+    border-radius: 9px;
+    z-index: 1;
+    border: 3px solid white;
+}
+.main .threesub {
+    background-image: linear-gradient(to bottom right, #9281B8 50%, #7A65A8 50%);
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 222px;
+    right: 0px;
+    top: -25px;
+    margin: auto;
+    margin-top: 411px;
+    border-radius: 9px;
+    z-index: 1;
+    border: 3px solid white;
+}
+.main .foursub {
+    background-image: linear-gradient(to bottom right, #73C1E5 50%, #59B4E0 50%);
+    height: 130px;
+    width: 560px;
+    position: absolute;
+    left: 222px;
+    right: 0px;
+    bottom: 42px;
+    margin: auto;
+    margin-top: 44px;
+    border-radius: 9px;
+    z-index: 1;
+    border: 3px solid white;
+}
+
+.main .onesub p {
+    color: white;
+    font-size: 13px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 87px;
+    margin-left: 14px;
+    margin-right: 181px;
+
+}
+
+.main .twosub p {
+    color: white;
+    font-size: 13px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 87px;
+    margin-left: 14px;
+    margin-right: 181px;
+
+}
+.main .threesub p {
+    color: white;
+    font-size: 13px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 87px;
+    margin-left: 14px;
+    margin-right: 181px;
+
+}
+.main .foursub p {
+    color: white;
+    font-size: 13px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 87px;
+    margin-left: 14px;
+    margin-right: 181px;
+
+}
+
+
+.main .onesub1 {
+    background-color: white;
+    height: 50px;
+    width: 216px;
+    position: absolute;
+    left: -128px;
+    right: 0px;
+    top: 4px;
+    margin: auto;
+    margin-top: 44px;
+    border-radius: 2px;
+    z-index: 2;
+}
+
+
+.main .twosub1 {
+    background-color: white;
+    height: 50px;
+    width: 216px;
+    position: absolute;
+    left: -128px;
+    right: 0px;
+    top: 4px;
+    margin: auto;
+    margin-top: 231px;
+    border-radius: 2px;
+    z-index: 2;
+}
+.main .threesub1 {
+    background-color: white;
+    height: 50px;
+    width: 216px;
+    position: absolute;
+    left: -128px;
+    right: 0px;
+    top: 4px;
+    margin: auto;
+    margin-top: 415px;
+    border-radius: 2px;
+    z-index: 2;
+}
+.main .foursub1 {
+    background-color: white;
+    height: 50px;
+    width: 216px;
+    position: absolute;
+    left: -128px;
+    right: 0px;
+    bottom: 97px;
+    margin: auto;
+    border-radius: 2px;
+    z-index: 2;
+}
+
+.main .onesub1 h3 {
+    color: #7A7474;
+    font-size: 23px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 10px;
+    margin-left: 14px;
+
+}
+
+
+.main .twosub1 h3 {
+    color: #7A7474;
+    font-size: 23px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 10px;
+    margin-left: 14px;
+
+}
+.main .threesub1 h3 {
+    color: #7A7474;
+    font-size: 23px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 10px;
+    margin-left: 14px;
+
+}
+.main .foursub1 h3 {
+    color: #7A7474;
+    font-size: 23px;
+    font-family: 'Share Tech Mono', monospace;
+    margin-top: 10px;
+    margin-left: 14px;
+
+}
