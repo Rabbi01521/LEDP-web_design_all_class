@@ -1,0 +1,423 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.main {
+    background-color: white;
+    height: 635px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.main .one {
+    background-color: #FABB22;
+    height: 265px;
+    width: 55%;
+
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: auto;
+
+    margin-top: 10px;
+    margin-right: 13px;
+    border-radius: 6px;
+}
+
+
+.main .two {
+    background-color: #FABB22;
+    height: 265px;
+    width: 55%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-left: 13px;
+    border-radius: 6px;
+}
+
+.main .three {
+    background-color: white;
+    height: 560px;
+    width: 595px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    box-shadow: 1px 3px 16px -6px black;
+    border-radius: 6px;
+    z-index: 4;
+}
+
+
+.main .three h1 {
+    color: #595959;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 12px;
+    margin-bottom: 15px;
+
+}
+
+
+.three .header1 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 29px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header1 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 20px;
+    top: 123px;
+    margin: auto;
+
+}
+
+.three .header1:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header1:hover span {
+    color: #FABB22;
+}
+
+
+.three .header2 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 115px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header2 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 115px;
+    top: 123px;
+    margin: auto;
+
+}
+
+.three .header2:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header2:hover span {
+    color: #FABB22;
+}
+
+
+.three .header3 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 194px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header3 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 203px;
+    top: 123px;
+    margin: auto;
+
+}
+
+.three .header3:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header3:hover span {
+    color: #FABB22;
+}
+
+.three .header4 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 283px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header4 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 299px;
+    top: 123px;
+    margin: auto;
+
+}
+
+
+.three .header4:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header4:hover span {
+    color: #FABB22;
+}
+
+.three .header5 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 368px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header5 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 373px;
+    top: 123px;
+    margin: auto;
+
+}
+
+
+.three .header5:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header5:hover span {
+    color: #FABB22;
+}
+
+.three .header6 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 425px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header6 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 447px;
+    top: 123px;
+    margin: auto;
+
+}
+
+
+.three .header6:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header6:hover span {
+    color: #FABB22;
+}
+
+
+.three .header7 i {
+    color: #4E4E4E;
+    position: absolute;
+    left: 510px;
+    top: 62px;
+    margin: auto;
+    font-size: 56px;
+}
+
+.three .header7 span {
+    color: #4E4E4E;
+    position: absolute;
+    left: 514px;
+    top: 123px;
+    margin: auto;
+
+}
+
+
+.three .header7:hover i,
+span {
+    color: #FABB22;
+}
+
+.three .header7:hover span {
+    color: #FABB22;
+}
+
+
+.main .three .inputBox input[type=text] {
+    margin: auto;
+    display: block;
+    margin-top: 121px;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    width: 88%;
+    padding-top: 30px;
+
+    font-size: 16px;
+    border-bottom: 2px solid #CDCDCD;
+
+
+}
+
+
+
+
+.main .three .inputBox1 input[type=email] {
+    margin: auto;
+    display: block;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-top: 36px;
+    background-color: white;
+    width: 88%;
+    padding-top: 30px;
+    font-size: 16px;
+    border-bottom: 2px solid #CDCDCD;
+}
+
+
+
+.main .three .inputBox2 input[type=text] {
+    margin: auto;
+    display: block;
+    margin-top: 42px;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    width: 88%;
+    padding-top: 25px;
+
+    font-size: 16px;
+    border-bottom: 2px solid #CDCDCD;
+
+}
+
+
+.main .three .inputBox1 {
+    position: relative;
+}
+
+
+.main .three .inputBox label {
+    position: absolute;
+    top: 186px;
+    left: 44px;
+    letter-spacing: 1px;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #3C3C3C;
+    transition: 0.5s;
+    pointer-events: none;
+}
+
+
+.main .three .inputBox1 label {
+    position: absolute;
+    top: 25px;
+    bottom: 0px;
+    left: 45px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    color: #3C3C3C;
+    transition: .5s;
+    pointer-events: none;
+
+}
+
+.main .three .inputBox2 label {
+    position: absolute;
+    top: 369px;
+    left: 44px;
+
+    letter-spacing: 1px;
+    font-size: 16px;
+    color: #3C3C3C;
+    transition: .5s;
+    pointer-events: none;
+
+}
+
+.main .three .inputBox input:focus + label {
+    top: 170px;
+    left: 10;
+    color: #3C3C3C;
+    font-size: 15px;
+}
+
+
+.main .three .inputBox1 input:focus + label {
+    top: 5px;
+    left: 10;
+    color: #3C3C3C;
+    font-size: 15px;
+}
+
+.main .three .inputBox2 input:focus + label {
+    top: 350px;
+    left: 10;
+    color: #3C3C3C;
+    font-size: 15px;
+}
+
+
+.main .three button{
+    width: 35%;
+    background-color: #FABB22;
+    color: #3C3C3C;
+    box-sizing: border-box;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    padding: 17px;
+    padding-left: 15px;
+    outline: none;
+    border: 2px solid #FABB22;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 18px;
+    box-shadow: inset 0px 0px 7px 0px #FABB22;
+}
+
+.main .three button:hover {
+    background-color: white;
+    color: #FABB22;
+    transition: 1s;
+
+}
+
+
+
+
+
+
+
+
+
+
